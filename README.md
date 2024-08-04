@@ -6,7 +6,7 @@ Welcome to my GitHub profile! Here’s a bit about me:
 I am a qualified Data Scientist, and I am always eager to learn more in this field through hands-on work, projects, and self-directed learning.
 
 ## 📫 Contact
-- **Email**: [cooper.denny@icloud.com](cooper.denny@icloud.com)
+- **Email**: [cooper.denny@icloud.com](mailto:cooper.denny@icloud.com)
 - **LinkedIn**: [Cooper Denny](https://www.linkedin.com/in/cooper-denny)
 - **X**: [@CooperCDenny](https://twitter.com/CooperCDenny)
 - **Website**: [cooperdenny.github.io](https://cooperdenny.github.io/)
@@ -23,6 +23,7 @@ A repository containing batting and bowling cricket data (summarized by innings)
 
 ### [The Melbourne Pedestrian Counting System](https://cooperdenny.github.io/projects/melbourne-pedestrian-counting.html)
 A Power BI dashboard showing daily and hourly pedestrian counts in Melbourne, with sensor data mapping by day, week, and year.
+<iframe width="900" height="560.25" src="https://app.powerbi.com/view?r=eyJrIjoiMTdlMDVjYTItODBmMC00ZWQxLWFhNmItYzQ3NzMxYzlmNzJmIiwidCI6ImI2YTFjNzYxLWMxN2YtNDg5OC04MGM5LTQ4YzNhZDg5MTE0ZSJ9" allowFullScreen="true"></iframe>
 
 ### [Victorian Property Prices Dashboard](https://cooperdenny.github.io/projects/victorian-property-prices-dashboard.html)
 An interactive Power BI dashboard delivering insights into the Victorian property market with dynamic map visualizations and filterable slicers.
