@@ -37,8 +37,7 @@ Throughout this degree, I acquired valuable skills in R and Python, as well as s
 ## 💼 Experience
 **Data Support and App Developer**  
 Boccia Australia · Contract  
-Jul 2024 - Present 
-Melbourne, Victoria, Australia · Hybrid
+Jul 2024 - Present
 
 Building on my previous internship at the Victorian Institute of Sport, where I developed an R Shiny application for Boccia, I am now enhancing the app to include Pairs match data analysis.
 
@@ -48,8 +47,7 @@ I am collaborating closely with analysts from the Australian Institute of Sport,
 
 **Data Science Intern**  
 Victorian Institute of Sport · Internship  
-Jul 2023 - Oct 2023 
-Albert Park, Victoria, Australia · Hybrid
+Jul 2023 - Oct 2023
 
 I helped develop an R Shiny application for athletes, coaches, and analysts in the Paralympic sport of Boccia. This app collects, aggregates, and analyzes performance data, providing a user-friendly interface to monitor metrics in real-time. Using R's data manipulation and visualization tools, I created interactive, filterable dashboards to support better decision-making and optimize training strategies, without the need to purchase expensive software solutions.
 
