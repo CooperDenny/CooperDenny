@@ -23,7 +23,6 @@ A repository containing batting and bowling cricket data (summarized by innings)
 
 ### [The Melbourne Pedestrian Counting System](https://cooperdenny.github.io/projects/melbourne-pedestrian-counting.html)
 A Power BI dashboard showing daily and hourly pedestrian counts in Melbourne, with sensor data mapping by day, week, and year.
-<iframe width="900" height="560.25" src="https://app.powerbi.com/view?r=eyJrIjoiMTdlMDVjYTItODBmMC00ZWQxLWFhNmItYzQ3NzMxYzlmNzJmIiwidCI6ImI2YTFjNzYxLWMxN2YtNDg5OC04MGM5LTQ4YzNhZDg5MTE0ZSJ9" allowFullScreen="true"></iframe>
 
 ### [Victorian Property Prices Dashboard](https://cooperdenny.github.io/projects/victorian-property-prices-dashboard.html)
 An interactive Power BI dashboard delivering insights into the Victorian property market with dynamic map visualizations and filterable slicers.
@@ -53,3 +52,8 @@ Jul 2023 - Oct 2023
 Albert Park, Victoria, Australia · Hybrid
 
 I helped develop an R Shiny application for athletes, coaches, and analysts in the Paralympic sport of Boccia. This app collects, aggregates, and analyzes performance data, providing a user-friendly interface to monitor metrics in real-time. Using R's data manipulation and visualization tools, I created interactive, filterable dashboards to support better decision-making and optimize training strategies, without the need to purchase expensive software solutions.
+
+## 🏃 Hobbies
+- Playing local footy for Scoresby FNC, and local cricket for Eildon Park CC
+- Working on side projects and staying updated with the latest in data science
+- Watching AFL (14-year Carlton AFL member)
