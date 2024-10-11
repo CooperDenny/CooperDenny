@@ -32,24 +32,42 @@ An interactive Power BI dashboard delivering insights into the Victorian propert
 Bachelor of Applied Data Science  
 Feb 2021 - Jun 2024
 
-Throughout this degree, I acquired valuable skills in R and Python, as well as skills in data analysis, data visualization, machine learning modeling, and mathematical modeling. Additionally, I have been able to present complex data science projects and results in a clear and concise manner. These skills have prepared me to tackle data-driven problems in various domains.
+●	3.292 GPA, 77.600 WAM
+●	Acquired valuable skills in R and Python, as well as data analysis, data visualisation, machine learning, and mathematical modeling.
+●	Developed the ability to present complex data science projects and results in a clear and concise manner, preparing me to tackle data-driven problems across various domains.
+●	Projects: Predicting Melbourne rainfall, Stock portfolio optimisation, Analysis of Melbourne pedestrian traffic, Investigating California housing data, Analysis of Victorian property prices, Forecasting retail turnover using ARIMA and ETS modelling
 
 ## 💼 Experience
 **Data Support and App Developer**  
 Boccia Australia · Contract  
-Jul 2024 - Present
+Jul 2024 - Sep 2024
 
-Building on my previous internship at the Victorian Institute of Sport, where I developed an R Shiny application for Boccia, I am now enhancing the app to include Pairs match data analysis.
-
-My responsibilities include expanding app functionalities, incorporating user feedback from coaches and athletes, and integrating Snowflake for scalable, high-performance data warehousing and analytics. This enables efficient data management, real-time insights, and secure data sharing across the team.
-
-I am collaborating closely with analysts from the Australian Institute of Sport, Victorian Institute of Sport, and Paralympics Australia to ensure the app meets the highest standards of performance analysis.
+●	Enhanced the R Shiny application for Boccia to include Pairs and Teams match data analysis, ensuring timely deployment before the 2024 Paris Paralympic Games.
+●	Used R to clean and combine historical match data from CSV files into a consolidated match database table, integrated into Snowflake for efficient data management and scalable, high-performance analytics with real-time insights and secure data sharing.
+●	Incorporated feedback from coaches and athletes to improve app functionality and usability, optimizing performance data collection and analysis.
+●	Collaborated with analysts from the Australian Institute of Sport, Victorian Institute of Sport, and Paralympics Australia to ensure high standards in performance analysis.
+●	Contributed to Australia’s success at the 2024 Paris Paralympic Games, where the team won two silver medals in Boccia, surpassing the previous best of bronze.
 
 **Data Science Intern**  
 Victorian Institute of Sport · Internship  
 Jul 2023 - Oct 2023
 
-I helped develop an R Shiny application for athletes, coaches, and analysts in the Paralympic sport of Boccia. This app collects, aggregates, and analyzes performance data, providing a user-friendly interface to monitor metrics in real-time. Using R's data manipulation and visualization tools, I created interactive, filterable dashboards to support better decision-making and optimize training strategies, without the need to purchase expensive software solutions.
+●	Developed an R Shiny application for Boccia athletes, coaches, and analysts to collect, aggregate, and analyze performance data, replacing Hudl Sportscode to save thousands of dollars in subscription costs and offering a fully customizable, more powerful solution.
+●	Created interactive, filterable dashboards using R's data manipulation and visualization tools, enabling real-time performance monitoring.
+●	Provided a user-friendly interface to support better decision-making and optimize training strategies, eliminating the need for expensive software solutions.
+●	Cleaned and reworked previously coded match data CSV files from Hudl Sportscode into a format that integrated seamlessly with the new application.
+●	Collaborated with stakeholders to ensure the application met the requirements for performance analysis in a high-performance sports environment.
+●	Utilised analytical and critical thinking skills to refine app features, ensuring accuracy and efficiency in data presentation.
+
+**Maths & English Tutor**  
+DW Tuition · Casual 
+Mar 2021 - Present
+
+●	Provide one-on-one and group tutoring for a range of subjects, including VCE General Maths, VCE Mathematical Methods, Year 7-10 Maths and English, and Primary School Maths and English, both in-person and via Zoom.
+●	Tailor teaching approaches to meet each student's unique needs and learning style, fostering a supportive and engaging learning environment.
+●	Build strong foundational skills and encourage active participation and questioning to support student success.
+●	Commit to helping students achieve their potential through personalized guidance and support, boosting their confidence and academic performance.
+
 
 ## 🏃 Hobbies
 - Playing local footy for Scoresby FNC, and local cricket for Eildon Park CC
