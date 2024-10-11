@@ -60,7 +60,7 @@ Jul 2023 - Oct 2023
 - Utilised analytical and critical thinking skills to refine app features, ensuring accuracy and efficiency in data presentation.
 
 **Maths & English Tutor**  
-DW Tuition · Casual 
+DW Tuition · Casual  
 Mar 2021 - Present
 
 - Provide one-on-one and group tutoring for a range of subjects, including VCE General Maths, VCE Mathematical Methods, Year 7-10 Maths and English, and Primary School Maths and English, both in-person and via Zoom.
