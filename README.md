@@ -12,8 +12,8 @@ I am a qualified Data Scientist, and I am always eager to learn more in this fie
 - **Website**: [cooperdenny.github.io](https://cooperdenny.github.io/)
 
 ## 🛠️ Projects
-### [2023 AFL Brownlow Prediction Model](https://cooperdenny.github.io/projects/afl-brownlow-predictor.html)
-An ordinal logistic regression model predicting 2023 AFL Brownlow Medal votes using comprehensive player statistics, team metrics, and historical data.
+### [2024 AFL Brownlow Prediction Model](https://cooperdenny.github.io/projects/afl-brownlow-predictor-2024.html)
+An ordinal logistic regression model predicting 2024 AFL Brownlow Medal votes using comprehensive player statistics, team metrics, and historical data.
 
 ### [Australian Arbitrage Odds Finder](https://cooperdenny.github.io/projects/h2h-arbitrage-finder.html)
 Using the Odds API to identify arbitrage opportunities in H2H betting markets by Australian bookmakers.
@@ -26,6 +26,9 @@ A Power BI dashboard showing daily and hourly pedestrian counts in Melbourne, wi
 
 ### [Victorian Property Prices Dashboard](https://cooperdenny.github.io/projects/victorian-property-prices-dashboard.html)
 An interactive Power BI dashboard delivering insights into the Victorian property market with dynamic map visualizations and filterable slicers.
+
+### [2023 AFL Brownlow Prediction Model](https://cooperdenny.github.io/projects/afl-brownlow-predictor.html)
+An ordinal logistic regression model predicting 2023 AFL Brownlow Medal votes using comprehensive player statistics, team metrics, and historical data.
 
 ## 🎓 Education
 **Monash University**  
