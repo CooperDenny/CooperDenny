@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! Here’s a bit about me:
 
 ## 👨‍💻 About Me
-I am a Junior Data Scientist @ PlayHQ, and I am always eager to learn more in Data Science through hands-on work, projects, and self-directed learning.
+I am a Data Scientist @ PlayHQ, and I am always eager to learn more in Data Science through hands-on work, projects, and self-directed learning.
 
 ## 📫 Contact
 - **Email**: [cooper.denny@icloud.com](mailto:cooper.denny@icloud.com)
