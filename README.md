@@ -1,3 +1,5 @@
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=CooperDenny&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
 # Cooper Denny
 
 Data Scientist @ PlayHQ, passionate about hands-on data science projects and self-directed learning.
@@ -17,3 +19,9 @@ Data Scientist @ PlayHQ, passionate about hands-on data science projects and sel
 
 ## Education
 **Monash University** — Bachelor of Applied Data Science (Feb 2021 – Jun 2024)
+
+## 📊 GitHub Stats
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=CooperDenny&theme=dark&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api?username=CooperDenny&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CooperDenny&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
