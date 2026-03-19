@@ -22,6 +22,4 @@ Data Scientist @ PlayHQ, passionate about hands-on data science projects and sel
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=CooperDenny&theme=dark&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api?username=CooperDenny&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CooperDenny&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=CooperDenny&theme=dark&hide_border=false)
