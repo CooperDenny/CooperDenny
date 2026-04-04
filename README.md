@@ -18,7 +18,7 @@ I enjoy cross-functional collaboration, working closely with all parts of the bu
 | [2024 AFL Brownlow Prediction Model](https://cooperdenny.github.io/projects/afl-brownlow-2024/) | Ordinal logistic regression model predicting 2024 AFL Brownlow Medal votes |
 | [Australian Arbitrage Odds Finder](https://cooperdenny.github.io/projects/h2h-arbitrage-finder/) | Identifies arbitrage opportunities in H2H betting markets across Australian bookmakers |
 | [CricketStatsHub](https://github.com/CooperDenny/CricketStatsHub) | Batting and bowling data from international and domestic cricket competitions |
-| [Melbourne Pedestrian Counting System](https://cooperdenny.github.io/projects/melbourne-pedestrian-counting.html) | Power BI dashboard of daily and hourly pedestrian counts across Melbourne |
+| [Melbourne Pedestrian Counting System](https://cooperdenny.github.io/projects/melbourne-pedestrian-counting/) | Power BI dashboard of daily and hourly pedestrian counts across Melbourne |
 | [Victorian Property Prices Dashboard](https://cooperdenny.github.io/projects/victorian-property-prices-dashboard/) | Interactive Power BI dashboard with insights into the Victorian property market |
 | [2023 AFL Brownlow Prediction Model](https://cooperdenny.github.io/projects/afl-brownlow-2023/) | Ordinal logistic regression model predicting 2023 AFL Brownlow Medal votes |
 
