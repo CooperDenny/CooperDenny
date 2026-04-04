@@ -14,12 +14,13 @@ I enjoy cross-functional collaboration, working closely with all parts of the bu
 ## Projects
 | Project | Description |
 |---|---|
-| [2024 AFL Brownlow Prediction Model](https://cooperdenny.github.io/projects/AFL.Brownlow.Prediction.Model.2024.html) | Ordinal logistic regression model predicting 2024 AFL Brownlow Medal votes |
-| [Australian Arbitrage Odds Finder](https://cooperdenny.github.io/projects/h2h-arbitrage-finder.html) | Identifies arbitrage opportunities in H2H betting markets across Australian bookmakers |
+| [Eildon Park Cricket Club Website](https://cooperdenny.github.io/projects/eildon-park-cricket-club/) | Full club website built with Claude Code featuring a historical player stats dashboard that automatically populates all senior club records from compiled historical data. |
+| [2024 AFL Brownlow Prediction Model](https://cooperdenny.github.io/projects/afl-brownlow-2024/) | Ordinal logistic regression model predicting 2024 AFL Brownlow Medal votes |
+| [Australian Arbitrage Odds Finder](https://cooperdenny.github.io/projects/h2h-arbitrage-finder/) | Identifies arbitrage opportunities in H2H betting markets across Australian bookmakers |
 | [CricketStatsHub](https://github.com/CooperDenny/CricketStatsHub) | Batting and bowling data from international and domestic cricket competitions |
 | [Melbourne Pedestrian Counting System](https://cooperdenny.github.io/projects/melbourne-pedestrian-counting.html) | Power BI dashboard of daily and hourly pedestrian counts across Melbourne |
-| [Victorian Property Prices Dashboard](https://cooperdenny.github.io/projects/victorian-property-prices-dashboard.html) | Interactive Power BI dashboard with insights into the Victorian property market |
-| [2023 AFL Brownlow Prediction Model](https://cooperdenny.github.io/projects/AFL.Brownlow.Prediction.Model.html) | Ordinal logistic regression model predicting 2023 AFL Brownlow Medal votes |
+| [Victorian Property Prices Dashboard](https://cooperdenny.github.io/projects/victorian-property-prices-dashboard/) | Interactive Power BI dashboard with insights into the Victorian property market |
+| [2023 AFL Brownlow Prediction Model](https://cooperdenny.github.io/projects/afl-brownlow-2023/) | Ordinal logistic regression model predicting 2023 AFL Brownlow Medal votes |
 
 ## Education
 **Monash University** — Bachelor of Applied Data Science (Feb 2021 – Jun 2024)
