@@ -2,7 +2,11 @@
 
 # Cooper Denny
 
-Data Scientist @ PlayHQ, passionate about hands-on data science projects and self-directed learning.
+Data Scientist at PlayHQ Sports. 
+
+Passionate about using data and AI to simplify complex problems — turning messy data into clear insights through predictive modelling, interactive dashboards, and reporting that drives real decisions. 
+
+I enjoy cross-functional collaboration, working closely with all parts of the business to deliver data that's understood and acted on, using tools like SQL, Python, dbt, Snowflake, Tableau, Lightdash, and more.
 
 ## Contact
 [cooper.denny@icloud.com](mailto:cooper.denny@icloud.com) · [LinkedIn](https://www.linkedin.com/in/cooper-denny) · [X](https://twitter.com/CooperCDenny) · [Website](https://cooperdenny.github.io/)
