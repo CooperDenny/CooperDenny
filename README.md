@@ -26,4 +26,4 @@ I enjoy cross-functional collaboration, working closely with all parts of the bu
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=CooperDenny&theme=dark&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CooperDenny&theme=dark&hide_border=false)
