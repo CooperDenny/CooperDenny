@@ -9,7 +9,10 @@ Passionate about using data and AI to simplify complex problems — turning mess
 I enjoy cross-functional collaboration, working closely with all parts of the business to deliver data that's understood and acted on, using tools like SQL, Python, dbt, Snowflake, Tableau, Lightdash, and more.
 
 ## Contact
-[cooper.denny@icloud.com](mailto:cooper.denny@icloud.com) · [LinkedIn](https://www.linkedin.com/in/cooper-denny) · [X](https://twitter.com/CooperCDenny) · [Website](https://cooperdenny.github.io/)
+[![Email](https://img.shields.io/badge/Email-cooper.denny%40icloud.com-blue?style=flat&logo=icloud&logoColor=white)](mailto:cooper.denny@icloud.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cooper_Denny-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cooper-denny)
+[![X](https://img.shields.io/badge/X-%40CooperCDenny-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/CooperCDenny)
+[![Website](https://img.shields.io/badge/Website-cooperdenny.github.io-4CAF50?style=flat&logo=github&logoColor=white)](https://cooperdenny.github.io/)
 
 ## Projects
 | Project | Description |
