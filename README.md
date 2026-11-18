@@ -18,7 +18,7 @@ I enjoy cross-functional collaboration, working closely with all parts of the bu
 | Project | Description |
 |---|---|
 | [Eildon Park Cricket Club Website](https://cooperdenny.github.io/projects/eildon-park-cricket-club/) | Full club website built with Claude Code featuring a historical player stats dashboard that automatically populates all senior club records from compiled historical data. |
-| [AFL Brownlow Prediction Model](https://github.com/CooperDenny/AFLBrownlowPredictor) | Ordinal logistic regression model predicting AFL Brownlow Medal votes — applied in 2023 and 2024 |
+| [AFL Brownlow Prediction Model](https://github.com/CooperDenny/AFLBrownlowPredictor) | Ordinal logistic regression model predicting AFL Brownlow Medal votes — applied every season since 2023 |
 | [Australian Arbitrage Odds Finder](https://cooperdenny.github.io/projects/h2h-arbitrage-finder/) | Identifies arbitrage opportunities in H2H betting markets across Australian bookmakers |
 | [CricketStatsHub](https://github.com/CooperDenny/CricketStatsHub) | Batting and bowling data from international and domestic cricket competitions |
 | [Melbourne Pedestrian Counting System](https://cooperdenny.github.io/projects/melbourne-pedestrian-counting/) | Power BI dashboard of daily and hourly pedestrian counts across Melbourne |
